@@ -1,0 +1,42 @@
+
+.top{
+	text-align:center;
+}
+
+form{
+	text-align:center;
+}
+th{
+	color:white;
+}
+
+td{
+	
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:55px;
+	padding-left:15px;
+}
+
+.center{
+	text-align:center;
+}
+
+button{
+	align:center;
+}
+
+label{
+	color:white;
+}
+form{
+	background:#ae81f5;
+	color:white;
+	width:100%;
+text-align:center;s
+}
+
+#btn{
+	margin-left:45%;
+}
